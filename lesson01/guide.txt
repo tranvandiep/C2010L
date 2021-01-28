@@ -1,0 +1,19 @@
+1. Hoc cach tao 1 website can ban nhat -> gioi thieu ca nhan
+2. publish 1 website
+	- github
+	- git
+	- heroku
+============================================================
+DevC
+	- Go code: Editor
+	- Compiler: C -> binary -> PC
+HTML/CSS/JS:
+	- IDE:
+		- sublime text 3: smooth
+		- visual studio
+		- webstorm
+	- Browser
+		- Chrome
+		- Coccoc ...
+=============================================================
+- html: tag, the
