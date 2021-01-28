@@ -9,7 +9,9 @@
 		- git push -u origin master
 			- Dang nhap tai khoan -> day le github
 		2) Lan tiep theo
-		
+		- git add -A
+		- git commit -m 'second commit'
+		- git push origin master
 	- github
 		- create project on github: C2010L
 	- heroku
