@@ -1,0 +1,15 @@
+- HTML
+- Tools
+	- git
+		1) Lan dau
+		- git init
+		- git add -A
+		- git commit -m 'add project first'
+		- git remote add origin https://github.com/tranvandiep/C2010L.git
+		- git push -u origin master
+			- Dang nhap tai khoan -> day le github
+		2) Lan tiep theo
+		
+	- github
+		- create project on github: C2010L
+	- heroku
